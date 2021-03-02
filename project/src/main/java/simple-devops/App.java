@@ -1,4 +1,4 @@
-package simple-devops;
+package simple_devops;
 
 /**
  * Hello world!
