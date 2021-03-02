@@ -1,4 +1,4 @@
-package simple_devops;
+package devops_project;
 
 /**
  * Hello world!

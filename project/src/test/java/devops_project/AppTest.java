@@ -1,4 +1,4 @@
-package simple-devops;
+package devops_project;
 
 import static org.junit.Assert.assertTrue;
 
